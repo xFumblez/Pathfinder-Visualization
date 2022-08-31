@@ -1,0 +1,8 @@
+﻿  Pathfinder Visualization.cpp
+C:\Users\ryan1\Desktop\Visual Concepts Coding Projects\Pathfinding Visualization\Pathfinder Visualization\Pathfinder Visualization.cpp(261,10): warning C4101: 'traversal_choice': unreferenced local variable
+  Generating code
+  54 of 257 functions (21.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    35 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Pathfinder Visualization.vcxproj -> C:\Users\ryan1\Desktop\Visual Concepts Coding Projects\Pathfinding Visualization\Pathfinder Visualization\x64\Release\Pathfinder Visualization.exe
